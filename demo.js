@@ -1,3 +1,3 @@
-var king = 'Bran Stark'
+var king = 'Bran Stark.';
 
 alert(king);
